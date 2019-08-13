@@ -4,12 +4,18 @@ int main()
 {
     int a;
     cin>>a;
-    if(a%2==0)
+    if(a<0)
     {
-        cout<<"even";
+        cout<<"Invalid";4
+    }
+     else if(a%2==0)
+    {
+        cout<<"Even";
     }
     else
     {
-        cout<<"odd";
+        cout<<"Odd";
     }
+
 }
+
