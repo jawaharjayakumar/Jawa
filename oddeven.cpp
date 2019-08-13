@@ -6,7 +6,7 @@ int main()
     cin>>a;
     if(a<0)
     {
-        cout<<"Invalid";4
+        cout<<"Invalid";
     }
      else if(a%2==0)
     {
