@@ -10,7 +10,7 @@ int main()
     }
     else if(c=='@'||'!'||'#'||'$'||'%'||'^'||'&'||'*')
     {
-        cout<<"Invalid";
+        cout<<"invalid";
     }
     else
     {
