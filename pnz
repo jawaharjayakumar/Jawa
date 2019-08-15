@@ -6,7 +6,7 @@ int main()
     cin>>a;
     if(a>0)
     {
-        cout<<"positive";
+        cout<<"Positive";
     }
     else if(a<0)
     {
@@ -14,6 +14,6 @@ int main()
     }
     else
     {
-        cout<<"zero";
+        cout<<"Zero";
     }
 }
