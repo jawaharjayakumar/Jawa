@@ -10,7 +10,7 @@ int main()
     }
     else if(a<0)
     {
-        cout<<"negative";
+        cout<<"Negative";
     }
     else
     {
