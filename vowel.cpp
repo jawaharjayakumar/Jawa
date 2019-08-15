@@ -2,13 +2,13 @@
 using namespace std;
 int main()
 {
-    char c;
-    cin>>c;
-    if(c=='a'||c=='e'||c=='i'||c=='o'||c=='u')
+    char ch;
+    cin>>ch;
+    if(ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u')
     {
         cout<<"Vowel";
     }
-    else if(c=='b'||c=='c'||c=='d'||c=='f'||c=='g'||c=='h'||c=='j'||c=='k'||c=='l'||c=='m'||c=='n'||c=='p'||c=='q'||c=='r'||c=='s'||c=='t'||c=='v'||c=='w'||c=='x'||c=='y'||c=='z')
+    else if(ch=='b'||ch=='c'||ch=='d'||ch=='f'||ch=='g'||ch=='h'||ch=='j'||ch=='k'||ch=='l'||ch=='m'||ch=='n'||ch=='p'||ch=='q'||ch=='r'||ch=='s'||ch=='t'||ch=='v'||ch=='w'||ch=='x'||ch=='y'||ch=='z')
     {
         cout<<"Consonant";
     }
@@ -18,4 +18,5 @@ int main()
     }
 
 }
+
 
