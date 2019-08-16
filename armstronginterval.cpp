@@ -4,7 +4,7 @@ int main()
 {
 int N,r,K,sum,num;
 cin>>N>>K;
-for(int i=N;i<=K;i++)
+for(int i=N;i<K;i++)
     {
         sum=0;
         num=i;
